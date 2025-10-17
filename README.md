@@ -47,7 +47,3 @@ This is a simple graphical user interface (GUI) calculator built using Python's 
 - Does not support advanced operations like exponents or parentheses.
 - Uses `eval()`, which is simple but not secure for untrusted input (safe here as input is controlled).
 - No keyboard input support.
-
-This project is open-source and free to use/modify under the MIT License.
-
-For more details, refer to the original article on GeeksforGeeks: [Simple GUI calculator using Tkinter-Python](https://www.geeksforgeeks.org/python-simple-gui-calculator-using-tkinter/).
